@@ -9,4 +9,4 @@ namespace HydraMQ
             Console.WriteLine("Hello World!");
         }
     }
-}
+}   
